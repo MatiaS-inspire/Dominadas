@@ -6,4 +6,4 @@ Dominadas_hechas = 0 # ESTA ES LA VARIABLE ACUMULADORA LA QUE ME PERMITE COMPILA
 for Cantidad_dominadas in range(Dias):
    Dominadas_hechas += Cantidad_dominadas
 
-print("Gero Arias hizo " + str(Dominadas_hechas) + " dominadas")
+print("Juan hizo " + str(Dominadas_hechas) + " dominadas")
